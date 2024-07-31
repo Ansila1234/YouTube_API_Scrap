@@ -18,6 +18,8 @@ In this project, we demonstrate the creation of a Python project focused on scra
 + Once the API key is generated, we will see how to use this API key to access different YouTube data.
 + We will look at the different sections in the documentation to access different data we need to build this project.
 + We will also look at the sample Python code given by Google to call different resources and methods to fetch YouTube data.
+
+  ![IMG_20240731_120956 (1)](https://github.com/user-attachments/assets/6b815e29-59f2-4b0b-94b0-552a27122d69)
 ## Step 3
 + Then we will get into writing the Python code to build this project.
 + Here I have used Jupyter Notebook to write my Python code. 1st we will install all the required Python packages.
